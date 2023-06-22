@@ -17,7 +17,7 @@ From the project's main directory, run
 ```console
 python database.py
 ```
-to initialize the database by creating the empty tables.
+to initialize the database tables.
 
 After downloading the reddit torrent at
 ```console
