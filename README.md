@@ -1,6 +1,9 @@
 # redditdb
 
-Install python and the packages listed in `requirements.txt`.
+Install python and the packages listed in `requirements.txt`:
+```console
+pip install -r requirements.txt
+```
 
 Install postgres (or another compatible database) and create a database. Create a file named `.env` in this project's main directory containing your DB address and login info like this: 
 ```console
