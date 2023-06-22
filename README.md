@@ -1,5 +1,7 @@
 # redditdb
 
+Install python and the packages listed in `requirements.txt`.
+
 Install postgres (or another compatible database) and create a .env with your login info:
 ```console
 DB_HOST=<db address>
